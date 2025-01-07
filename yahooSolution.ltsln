@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+# SharpDevelop 4.1.3.0-trunk
+Project("F4389F7E-1B42-457D-AC9C-939D4559A039") = "YahooMail_withoutHeaders_withCorr", "C:\Users\Redmi\Documents\VuGen\Scripts\YahooMail_withoutHeaders_withCorr\YahooMail_withoutHeaders_withCorr.usr", "F4389F7E-1B42-457D-AC9C-939D4559A039"
+	ProjectSection(CustomLoading) = Data
+		Token = PD94bWwgdmVyc2lvbj0iMS4wIj8+DQo8UGVyc2lzdGVuY2VUb2tlbj4NCiAgPExvYWREYXRhPkM6XFVzZXJzXFJlZG1pXERvY3VtZW50c1xWdUdlblxTY3JpcHRzXFlhaG9vTWFpbF93aXRob3V0SGVhZGVyc193aXRoQ29yclxZYWhvb01haWxfd2l0aG91dEhlYWRlcnNfd2l0aENvcnIudXNyPC9Mb2FkRGF0YT4NCiAgPEZpbGVzPg0KICAgIDxGaWxlPllhaG9vTWFpbF93aXRob3V0SGVhZGVyc193aXRoQ29yci51c3I8L0ZpbGU+DQogIDwvRmlsZXM+DQogIDxNb2RpZmllZD4yMDI1LTAxLTA3VDEyOjQ4OjMxLjQ3MzczNjkrMDM6MDA8L01vZGlmaWVkPg0KPC9QZXJzaXN0ZW5jZVRva2VuPg__
+	EndProjectSection
+	ProjectSection(ExpandInVugen) = Data
+		Value = True
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		F4389F7E-1B42-457D-AC9C-939D4559A039.Debug|Any CPU.Build.0 = Debug|Any CPU
+		F4389F7E-1B42-457D-AC9C-939D4559A039.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		F4389F7E-1B42-457D-AC9C-939D4559A039.Release|Any CPU.Build.0 = Release|Any CPU
+		F4389F7E-1B42-457D-AC9C-939D4559A039.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+EndGlobal
